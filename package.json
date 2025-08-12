@@ -1,6 +1,13 @@
 {
   "name": "apikey-generator",
   "version": "1.0.0",
+  "description": "A simple API key generator built with React.",
+  "author": "tobony",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobony/apikey-generator.git"
+  },
   "private": true,
   "scripts": {
     "start": "react-scripts start",
